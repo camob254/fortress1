@@ -1,0 +1,6 @@
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Cameron Brown\Documents\C# Projects\Tutorial\Methods\After\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
